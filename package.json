@@ -3,6 +3,31 @@
     "displayName": "Zelene",
     "description": "Zelene is a minimalistic dark theme with some pinch of sunshine for the people who love to code in dim spaces.",
     "version": "0.0.1",
+    "publisher": "Snehith",
+    "icon": "./icons/Screenshot (232).png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Snehith1710/Zelene-vscode-theme.git"
+    },
+
+    "author": {
+        "name": "Snehith Mangolu",
+        "email": "mangolusnehith1710@gmail.com"
+    },
+
+    "keywords": [
+        "theme",
+        "dark theme",
+        "snehith",
+        "zelene",
+        "zelene dark theme",
+        "snehith zelene",
+        "yellow theme",
+        "dark and yellow",
+        "sunshine theme",
+        "minimalistic",
+        "snehith theme"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },

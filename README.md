@@ -1,13 +1,20 @@
-# README
-## This is the README for your extension "snehith"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Zelene
+### Zelene is a minimalistic dark theme with some pinch of sunshine for the people who love to code in dim spaces.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### **Installation**:
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open Extensions on the sidebar.
+2. Search for "Zelene".
+3. Click on Install to add the theme to your VS Code setup.
+4. Open the Command Palette and select Preferences: Color Theme. This will list down all the themes you've installed.
+5. Select the Zelene theme to activate it.
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/68544805/124239874-c6cdea80-db37-11eb-9232-1ac6187a359c.png)
+
+
+![image (1)](https://user-images.githubusercontent.com/68544805/124239968-e2d18c00-db37-11eb-843d-17b2349770ed.png)
+
 
 **Enjoy!**

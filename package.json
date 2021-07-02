@@ -1,0 +1,21 @@
+{
+    "name": "snehith",
+    "displayName": "Zelene",
+    "description": "Zelene is a minimalistic dark theme with some pinch of sunshine for the people who love to code in dim spaces.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zelene",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zelene-color-theme.json"
+            }
+        ]
+    }
+}
